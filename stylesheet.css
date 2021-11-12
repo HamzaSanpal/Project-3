@@ -1,0 +1,1152 @@
+                                                                                      /* NAVBAR */
+
+#navbar{
+    height: 115px;
+    width: 24px;
+}
+#NORDICROSE{
+    font-family: New York Small,serif,sans-serif;
+    position: absolute;
+    left: 64px;
+    top: 54px; 
+    transform: scale(1.2);
+}
+
+
+                                                                                    /* BLOGS */
+#BLOGS 
+{
+position: absolute;
+display: block;
+width: 66px;
+height: 34.76px;
+left: 936px;
+top: 67px;
+
+font-family: New York Small,serif,sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 170%;
+border-bottom: 1px solid #000000;
+/* or 34px */
+text-align: center;
+letter-spacing: 0.12em;
+text-transform: uppercase;
+
+color: #000000;
+
+}
+
+                                                                                 /* ABOUTS */
+#ABOUTS
+{
+    position: absolute;
+    display: block;
+width: 84px;
+height: 34.76px;
+left: 1033px;
+top: 60.32px;
+
+font-family: New York Small,serif,sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 170%;
+/* or 34px */
+
+text-align: center;
+letter-spacing: 0.12em;
+text-transform: uppercase;
+
+color: #000000;
+
+
+}
+                                                                                    /* LINKS */
+#LINKS
+{
+    position: absolute;
+    display: block;
+    width: 71px;
+    height: 34.76px;
+    left: 1151px;
+    top: 60.32px;
+    
+    font-family: New York Small,serif,sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 170%;
+    /* or 34px */
+    text-align: center;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #000000;
+}
+                                                                                    /* Projects */
+#PROJECTS
+{
+    position: absolute;
+    display: block;
+width: 121px;
+height: 34.76px;
+left: 1258px;
+top: 60.32px;
+font-family: New York Small,serif,sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 170%;
+/* or 34px */
+text-align: center;
+letter-spacing: 0.12em;
+text-transform: uppercase;
+color: #000000;    
+}
+
+                                                                                /* 1st paragraph */
+#Hamza{
+    position: absolute;
+width: 858px;
+height: 162px;
+left: 291px;
+top: 186px;
+
+font-family: New York Extra Large;
+font-style: normal;
+font-weight: bold;
+font-size: 54px;
+line-height: 100%;
+/* or 54px */
+
+text-align: center;
+
+color: #000000;
+}
+
+                                                                            /*Blog Sub heading  */
+@font-face {
+font-family: SF Mono ;
+src: url(./Necessory/sf-mono-cufonfonts/SFMonoRegular.otf);
+}                                                                        
+
+ #blog-sub-heading{
+    position: absolute;
+    width: 626px;
+    height: 68px;
+    left: 407px;
+    top: 380px;
+    
+    font-family: SF Mono, sans-serif, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 170%;
+    /* or 34px */
+    
+    text-align: center;
+    
+    color: #000000;
+}
+.img-1{
+    position: absolute;
+width: 1440px;
+height: 900px;
+left: 0px;
+top: 500px;
+
+background: url(.png);
+}
+
+.line-1{
+    position: absolute;
+width: 640px;
+height: 0px;
+left: 400px;
+top: 1432px;
+opacity: 1px;
+color: #000000;
+border: 2px solid #000000;
+}
+
+.mask-group{
+    position: absolute;
+width: 56px;
+height: 56px;
+left: 400px;
+top: 1456px;
+}
+#Mika{
+    position: absolute;
+width: 162px;
+height: 19px;
+left: 472px;
+top: 1445px;
+
+font-family: SF Pro Text;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 19px;
+margin: 16px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+text-transform: uppercase;
+
+color: #000000;
+}
+                                                                                 /* Mika dates  */
+#Mia
+{ 
+position: absolute;
+width: 191px;
+height: 19px;
+left: 489px;
+top: 1488px;
+font-family: SF Pro Text;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */                                                                                 
+color: #000000;
+}
+                                                                               /* F&T LOGO */                                                                             
+#LOGO
+{
+    position: absolute;
+    width: 140px;
+    height: 44px;
+    right: 400px;
+    top: 1462px;
+    background: #FFFFFF;
+    box-sizing: border-box;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.08);
+    border-radius: 4px;
+}
+                                                                                /* lorem p */
+#loremp
+{
+    position: absolute;
+    width: 640px;
+    height: 238px;
+    left: 400px;
+    top: 1565px;
+    
+    font-family: New York Medium;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 170%;
+    /* or 34px */
+    
+    
+    color: #000000;
+}
+                                                                                                /* loremp2h1 */
+#loremp2h1
+{
+    position: absolute;
+    width: 350px;
+    height: 51px;
+    left: 400px;
+    top: 1860px;
+    
+    font-family: SF Pro Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 160%;
+    /* or 51px */
+    
+    
+    color: #000000;
+}
+                                                                                                /* paragraphofh1 */
+#paragraphofh1
+{
+    position: absolute;
+    width: 640px;
+    height: 228px;
+    left: 400px;
+    top: 1935px;
+    
+    font-family: New York Medium;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 170%;
+    /* or 34px */
+    
+    
+    color: #000000;
+}
+                                                                                                  /* human img */
+#humanimg
+{
+    position: absolute;
+    width: 854px;
+    height: 570px;
+    left: 293px;
+    top: 2215px;
+    
+    background: url(.jpg);
+    
+}
+                                                                                                /* Humanparagraph */
+#Humanparagraph
+{
+    position: absolute;
+width: 481px;
+height: 44px;
+left: 479px;
+top: 2797px;
+
+font-family: SF Pro Text;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+text-align: center;
+
+color: #000000;
+}
+                                                                                                /* Humanparagraph2 */
+#Humanparagraph2
+{
+    position: absolute;
+    width: 640px;
+    height: 272px;
+    left: 400px;
+    top: 2893px;
+    
+    font-family: New York Medium;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 170%;
+    /* or 34px */
+    
+    
+    color: #000000;
+}
+                                                                                                   /* listheading */
+#listheading
+{
+    position: absolute;
+    width: 640px;
+    height: 34px;
+    left: 410px;
+    top: 3217px;
+    
+    font-family: New York Medium;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 170%;
+    /* identical to box height, or 34px */
+    
+    
+    color: #000000;
+}
+                                                                                                   /* list */
+#list
+{
+    position: absolute;
+    width: 588px;
+    height: 168px;
+    left: 400px;
+    top: 3270px;
+    
+    font-family: New York Medium;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 170%;
+    /* or 34px */
+    
+    
+    color: #000000;
+}
+                                                                                      /* paragraphafterlist */
+#paragraphafterlist
+{
+    position: absolute;
+    width: 640px;
+    height: 68px;
+    left: 400px;
+    top: 3490px;
+    
+    font-family: New York Medium;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 170%;
+    /* or 34px */
+    
+    
+    color: #000000;
+}
+                                                                                           /* shareonfacebook */
+#shareonfacebook
+{
+    position: absolute;
+    width: 140px;
+    height: 26px;
+    left: 470px;
+    top: 3774px;
+    
+}
+                                                                                             /* shareonfacebooktext */
+#shareonfacebooktext
+{
+    position: absolute;
+    width: 148px;
+    height: 26px;
+    left: 506px;
+    top: 3774px;
+    
+    font-family: SF Pro Text;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 160%;
+    /* identical to box height, or 26px */
+    
+    
+    color: #000000;
+}
+                                                                                          /* shareonTwiter */
+#shareonTwiter
+{
+    position: absolute;
+    width: 165px;
+    height: 26px;
+    left: 800px;
+    top: 3774px;
+    
+}
+/* shareontwittertext */
+#shareontwittertext 
+{ 
+    position: absolute;
+width: 127px;
+height: 26px;
+left: 838px;
+top: 3774px;
+
+font-family: SF Pro Text;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 160%;
+/* identical to box height, or 26px */
+
+
+color: #000000;
+}
+/* rectangle */
+#Rectangle
+{
+    position: absolute;
+    width: 640px;
+    height: 64px;
+    /* right: 400px; */
+    top: 3755px;
+    left: 400px;
+    
+    background: #FFFFFF;
+    border: 1px solid #EAEAEA;
+    box-sizing: border-box;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.08);
+    border-radius: 4px;
+} 
+                                                                                      /* linebar */
+#linebar
+{
+    position: absolute;
+    width: 64px;
+    height: 0px;
+    left: 700px;
+    top: 3786px;
+    
+    border: 1px solid #EAEAEA;
+    transform: rotate(-90deg);
+}
+                                                                                        /* tags */
+#tags
+{
+    position: absolute;
+width: 240px;
+height: 19px;
+left: 399px;
+top: 3851px;
+
+font-family: SF Pro Text;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+letter-spacing: 0.03em;
+
+color: #0C0C0C;
+} 
+                                                                             /* hrlinedotted */
+#hrlinedotted
+{
+    position: absolute;
+width: 640px;
+height: 0px;
+left: 400px;
+top: 3904px;
+
+border: 1px dashed #000000;
+opacity: 0.3;
+}
+                                                                              /* maskgroup2 */
+#maskgroup2
+{
+    position: absolute;
+    width: 71.25px;
+    height: 71.25px;
+    left: 398.75px;
+    top: 3940px;
+    
+    background: url(.png);
+}
+                                                                        /* maskgroup2text */
+#maskgroup2text
+{
+    position: absolute;
+width: 543px;
+height: 78px;
+left: 494px;
+top: 3936px;
+
+font-family: SF Pro Text;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 160%;
+/* or 26px */
+
+letter-spacing: 0.05em;
+
+
+color: #0C0C0C;
+}
+                                                                           /* hreyeline */
+#hreyeline
+{
+    position: absolute;
+    width: 1440px;
+    height: 0px;
+    left: 0px;
+    top: 4146px;
+    
+    border: 2px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+                                                                          /* eyes */
+#eyes
+{
+    position: absolute;
+    width: 82px;
+    height: 64.29px;
+    left: 679px;
+    top: 4114px;
+} 
+                                                                         /* lineaftereyse */
+#lineaftereyse 
+{
+    position: absolute;
+    width: 376px;
+    height: 53px;
+    left: 532px;
+    top: 4219px;
+    
+    font-family: New York Extra Large;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 44px;
+    line-height: 53px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #000000;
+}
+                                                                      /* aftereye row1 img1 */
+#aftereyerow1img1
+{
+    position: absolute;
+width: 304px;
+height: 176px;
+left: 221px;
+top: 4299px;
+
+background: url(.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+                                                                      /* aftereye row1 img2 */
+#aftereyerow1img2
+{
+    position: absolute;
+    width: 304px;
+    height: 176px;
+    left: 553px;
+    top: 4299px;
+    
+    background: url(.png);
+}
+                                                                      /* aftereye row1 img3 */
+#aftereyerow1img3
+{
+    position: absolute;
+width: 304px;
+height: 176px;
+left: 885px;
+top: 4299px;
+
+background: url(.png);
+}
+                                                                            /* aftereye row1 txt1 */
+#aftereyerow1txt1
+{
+    position: absolute;
+    width: 288px;
+    height: 78px;
+    left: 229px;
+    top: 4495px;
+    
+    font-family: SF Pro Display;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 120%;
+    /* or 26px */
+    
+    text-align: center;
+    
+    color: #000000;
+}
+                                                                            /* aftereye row1 txt2 */
+#aftereyerow1txt2
+{
+    position: absolute;
+    width: 262px;
+    height: 52px;
+    left: 574px;
+    top: 4495px;
+    
+    font-family: SF Pro Display;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 120%;
+    /* or 26px */
+    
+    text-align: center;
+    
+    color: #000000; 
+}
+                                                                            /* aftereye row1 txt3 */
+#aftereyerow1txt3
+{
+    position: absolute;
+    width: 262px;
+    height: 78px;
+    left: 906px;
+    top: 4495px;
+    
+    font-family: SF Pro Display;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 120%;
+    /* or 26px */
+    
+    text-align: center;
+    
+    color: #000000;  
+}
+                                                                     /* aftereyerow2img1 */
+#aftereyerow2img1
+{
+    position: absolute;
+    width: 304px;
+    height: 176px;
+    left: 221px;
+    top: 4607px;
+    
+    background: url(.png);
+}
+                                                                     /* aftereyerow2img2 */
+#aftereyerow2img2
+{
+    position: absolute;
+    width: 304px;
+    height: 176px;
+    left: 553px;
+    top: 4607px;
+    
+    background: url(.png); 
+}
+                                                                     /* aftereyerow2img3 */
+#aftereyerow2img3
+{
+    position: absolute;
+    width: 304px;
+    height: 176px;
+    left: 885px;
+    top: 4607px;
+    
+    background: url(.png);
+}
+                                                                     /* aftereyerow2txt1 */
+#aftereyerow2txt1
+{
+    position: absolute;
+    width: 262px;
+    height: 78px;
+    left: 242px;
+    top: 4803px;
+    
+    font-family: SF Pro Display;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 120%;
+    /* or 26px */
+    
+    text-align: center;
+    
+    color: #000000;
+}
+                                                                     /* aftereyerow2txt2 */
+#aftereyerow2txt2
+{
+    position: absolute;
+    width: 282px;
+    height: 104px;
+    left: 564px;
+    top: 4803px;
+    
+    font-family: SF Pro Display;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 120%;
+    /* or 26px */
+    
+    text-align: center;
+    
+    color: #000000;
+      
+}
+                                                                     /* aftereyerow2txt3 */
+#aftereyerow2txt3
+{
+    position: absolute;
+    width: 270px;
+    height: 104px;
+    left: 902px;
+    top: 4803px;
+    
+    font-family: SF Pro Display;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 120%;
+    /* or 26px */
+    
+    text-align: center;
+    
+    color: #000000;      
+}
+                                                                                       /* formborder-up */
+#formborder-up
+{
+    position: absolute;
+    width: 640px;
+    height: 12px;
+    left: 400px;
+    top: 5012px;
+    
+    background: #000000;
+}
+                                                                                       /* formborder */
+#formborder
+{
+    position: absolute;
+    width: 640px;
+    height: 313px;
+    left: 388px;
+    top: 5021px;
+      
+}
+                                                                         /* formheading */
+#formheading
+{
+    position: absolute;
+    width: 444px;
+    height: 28px;
+    left: 498px;
+    top: 5083px;
+    
+    font-family: New York Extra Large;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 28px;
+    /* identical to box height, or 78% */
+    
+    text-align: center;
+    
+    color: #090909;
+}
+                                                                         /* formparag */
+#formparag
+{
+    position: absolute;
+    width: 538px;
+    height: 56px;
+    left: 451px;
+    top: 5129px;
+    
+    font-family:  sans-serif,SF Pro Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    /* or 140% */
+    
+    text-align: center;
+    
+    color: #090909;  
+}
+/* emailtextarea */
+#emailtextarea
+{
+    position: absolute;
+width: 503px;
+height: 54px;
+left: 460px;
+top: 5221px;
+}
+/* signupbutton */
+#signupbutton
+{
+    position: absolute;
+    width: 139px; 
+    height: 54px; 
+    left: 841px; 
+    top: 5221px;
+    font-weight: 900;
+    font-size: larger;
+    color: #EAEAEA;
+    background: #000000;
+}
+                                                                               /* blackbackground */
+#blackbackground
+{
+    position: absolute;
+width: 1440px;
+height: 464px;
+left: 1px;
+top: 5445px;
+
+background: #000000;
+}
+                                                                                   /* Digitalproductdesign */
+#Digitalproductdesign
+{
+    position: absolute;
+    width: 319px;
+    height: 28px;
+    left: -4px;
+    top: 5463px;
+    
+    font-family: SF Pro Text;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 28px;
+    /* identical to box height, or 140% */
+    
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+}
+                                                                                   /* Remotework */
+#Remotework
+{
+    position: absolute;
+    width: 168px;
+    height: 28px;
+    left: 325px;
+    top: 5463px;
+    
+    font-family: SF Pro Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 28px;
+    /* identical to box height, or 140% */
+    
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+    
+}
+                                                                                   /* UXdesign */
+#UXdesign
+{
+    position: absolute;
+    width: 132px;
+    height: 28px;
+    left: 512px;
+    top: 5463px;
+    
+    font-family: SF Pro Text;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 28px;
+    /* identical to box height, or 140% */
+    
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+}
+                                                                                   /* Distributedteams */
+#Distributedteams
+{
+    position: absolute;
+    width: 237px;
+    height: 28px;
+    left: 660px;
+    top: 5463px;
+    
+    font-family: SF Pro Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 28px;
+    /* identical to box height, or 140% */
+    
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+}
+                                                                                   /* Creativity */
+#Creativity
+{
+    position: absolute;
+    width: 145px;
+    height: 28px;
+    left: 910px;
+    top: 5463px;
+    
+    font-family: SF Pro Text;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 28px;
+    /* identical to box height, or 140% */
+    
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+    
+}
+                                                                                   /* Strategy */
+#Strategy
+{
+    position: absolute;
+    width: 117px;
+    height: 28px;
+    left: 1068px;
+    top: 5463px;
+    
+    font-family: SF Pro Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 28px;
+    /* identical to box height, or 140% */
+    
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+}
+                                                                                   /* Suspense */
+#Suspense
+{
+    position: absolute;
+    width: 127px;
+    height: 28px;
+    left: 1203px;
+    top: 5463px;
+    
+    font-family: SF Pro Text;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 28px;
+    /* identical to box height, or 140% */
+    
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+    
+}
+                                                                                   /* Growth */
+#Growth
+{
+    position: absolute;
+    width: 100px;
+    height: 28px;
+    left: 1347px;
+    top: 5463px;
+    
+    font-family: SF Pro Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 28px;
+    /* identical to box height, or 140% */
+    
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;                                                                                 
+}
+                                                                        /* FOOTERNORDICROSE */
+#FOOTERNORDICROSE
+{
+    position: absolute;
+    width: 400.91px;
+    height: 27.3px;
+    left: 573.55px;
+    top: 5596.12px;
+    font-family: New York Small,serif,sans-serif;
+    
+    background: #000000;
+    color: rgb(255, 255, 255);
+}
+                                                                            /* footerlorem */
+#footerlorem
+{
+    position: absolute;
+    width: 488px;
+    height: 71px;
+    left: 475px;
+    top: 5649px;
+    
+    font-family: New York Small;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 140%;
+    /* or 22px */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+#twet{
+    
+    position: absolute;
+width: 55px;
+height: 27px;
+left: 615px;
+top: 5752px;
+
+font-family: SF Pro Text;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 170%;
+/* or 27px */
+
+text-decoration-line: underline;
+
+color: #FFFFFF;
+}
+
+/* Linkedin */
+#Linkedin
+{
+    
+    position: absolute;
+    width: 66px;
+    height: 27px;
+    left: 697px;
+    top: 5752px;
+    
+    font-family: SF Pro Text;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 170%;
+    /* or 27px */
+    
+    text-decoration-line: underline;
+    
+    color: #FFFFFF;
+}
+/* RSS */
+#RSS
+{
+    color: #FFFFFF;
+    position: absolute;
+width: 32px;
+height: 27px;
+left: 792px;
+top: 5752px;
+
+font-family: SF Pro Text;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 170%;
+/* or 27px */
+
+text-decoration-line: underline;
+
+color: #FFFFFF;
+}
+                                                                         /* Copyright */
+#Copyright
+{
+    position: absolute;
+width: 178px;
+height: 34px;
+left: 629px;
+top: 5843px;
+
+font-family: SF Pro Text;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 140%;
+/* or 17px */
+
+text-align: center;
+
+color: #ffffff;
+}
